@@ -2,7 +2,7 @@
 
 ## Krátké představení autora
 
-Jmenuji se Kamil Votýpka a jsem student technického lycea se zaměřením na informační technologie. O IT se zajímám nejen ve škole, ale i ve svém volném čase, kde se snažím rozvíjet své dovednosti nad rámec výuky.
+Jmenuji se Dan Čudejko a jsem student technického lycea se zaměřením na strojírenství.
 
 ### Zájmy
 - programování (základy v C# a postupně se seznamuji i s dalšími jazyky)
