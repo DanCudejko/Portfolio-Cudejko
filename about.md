@@ -11,8 +11,7 @@ Jmenuji se Dan Čudejko a jsem student technického lycea se zaměřením na str
 - 3D tisk
 
 ### Zaměření
-Ve studiu se orientuji především na:
-- mechaniku a různé stroje
+Ve studiu se orientuji především na mechaniku a různé stroje
 
 ### Cíle
 - Orientovat se v oboru strojírenství
